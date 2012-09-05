@@ -1,0 +1,27 @@
+name = development
+description = Start with only a few modules enabled.
+version = VERSION
+core = 7.x
+# core
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = filter
+dependencies[] = menu
+dependencies[] = text
+dependencies[] = update
+
+# contrib
+dependencies[] = admin_menu
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = eck
+dependencies[] = features
+dependencies[] = entity
+dependencies[] = jquery_update
+
+# custom
+#dependencies[] = ldh
+#dependencies[] = fapidev
+#dependencies[] = devel_entity
