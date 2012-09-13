@@ -2,7 +2,7 @@ name = development
 description = Start with only a few modules enabled.
 version = VERSION
 core = 7.x
-# core
+; core
 dependencies[] = block
 dependencies[] = dblog
 dependencies[] = field
@@ -26,8 +26,9 @@ dependencies[] = taxonomy
 dependencies[] = text
 
 
-# contrib
+; contrib
 dependencies[] = ctools
+dependencies[] = page_manager
 dependencies[] = devel
 dependencies[] = eck
 dependencies[] = features
@@ -36,8 +37,12 @@ dependencies[] = jquery_update
 dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = module_filter
+dependencies[] = views
+dependencies[] = bueditor
+dependencies[] = markdowneditor
+dependencies[] = markdown
 
-# custom
+; custom
 #dependencies[] = ldh
 #dependencies[] = fapidev
 #dependencies[] = devel_entity

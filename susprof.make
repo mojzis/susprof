@@ -13,6 +13,12 @@ projects[features][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[libraries][subdir] = "contrib"
 projects[module_filter][subdir] = "contrib"
+projects[views][subdir] = "contrib"
+projects[bueditor][subdir] = "contrib"
+projects[markdowneditor][subdir] = "contrib"
+projects[markdown][subdir] = "contrib"
+
+;projects[][subdir] = "contrib"
 
 ; Themes
 projects[mothership][subdir] = "mothership"
