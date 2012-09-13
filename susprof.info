@@ -7,19 +7,35 @@ dependencies[] = block
 dependencies[] = dblog
 dependencies[] = field
 dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
 dependencies[] = filter
+dependencies[] = image
+dependencies[] = list
+dependencies[] = help
 dependencies[] = menu
+dependencies[] = node
 dependencies[] = text
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = php
+dependencies[] = search
 dependencies[] = update
+dependencies[] = taxonomy
+dependencies[] = text
+
 
 # contrib
-dependencies[] = admin_menu
 dependencies[] = ctools
 dependencies[] = devel
 dependencies[] = eck
 dependencies[] = features
 dependencies[] = entity
 dependencies[] = jquery_update
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+dependencies[] = module_filter
 
 # custom
 #dependencies[] = ldh
