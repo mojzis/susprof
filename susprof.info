@@ -1,5 +1,5 @@
-name = development
-description = Start with only a few modules enabled.
+name = susprof
+description = susino work profile
 version = VERSION
 core = 7.x
 ; core
