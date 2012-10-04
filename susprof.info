@@ -42,6 +42,7 @@ dependencies[] = views_ui
 dependencies[] = bueditor
 dependencies[] = markdowneditor
 dependencies[] = markdown
+dependencies[] = pathauto
 
 ; custom
 #dependencies[] = ldh

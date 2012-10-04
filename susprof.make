@@ -17,6 +17,8 @@ projects[views][subdir] = "contrib"
 projects[bueditor][subdir] = "contrib"
 projects[markdowneditor][subdir] = "contrib"
 projects[markdown][subdir] = "contrib"
+projects[pathauto][subdir] = "contrib"
+projects[token][subdir] = "contrib"
 
 ;projects[][subdir] = "contrib"
 
