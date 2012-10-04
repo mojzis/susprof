@@ -38,6 +38,7 @@ dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = module_filter
 dependencies[] = views
+dependencies[] = views_ui
 dependencies[] = bueditor
 dependencies[] = markdowneditor
 dependencies[] = markdown
