@@ -19,6 +19,10 @@ projects[markdowneditor][subdir] = "contrib"
 projects[markdown][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[token][subdir] = "contrib"
+projects[transliteration][subdir] = "contrib"
+projects[date][subdir] = "contrib"
+projects[ds][subdir] = "contrib"
+projects[context][subdir] = "contrib"
 
 ;projects[][subdir] = "contrib"
 
