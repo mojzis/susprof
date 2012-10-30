@@ -27,7 +27,7 @@ projects[context][subdir] = "contrib"
 ;projects[][subdir] = "contrib"
 
 ; Themes
-projects[mothership][subdir] = "mothership"
+projects[mothership]
 
 
 ; TODO : add profile
