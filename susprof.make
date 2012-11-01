@@ -23,6 +23,7 @@ projects[transliteration][subdir] = "contrib"
 projects[date][subdir] = "contrib"
 projects[ds][subdir] = "contrib"
 projects[context][subdir] = "contrib"
+projects[diff][subdir] = "contrib"
 
 ;projects[][subdir] = "contrib"
 

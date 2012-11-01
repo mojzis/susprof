@@ -47,6 +47,7 @@ dependencies[] = transliteration
 dependencies[] = date
 dependencies[] = ds_ui
 dependencies[] = context_ui
+dependencies[] = diff
 
 ; custom
 #dependencies[] = ldh
