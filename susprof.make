@@ -28,7 +28,7 @@ projects[diff][subdir] = "contrib"
 ;projects[][subdir] = "contrib"
 
 ; Themes
-projects[mothership]
+projects[mothership][type] = theme
 
 
 ; TODO : add profile
