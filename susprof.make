@@ -32,10 +32,6 @@ projects[mothership][type] = theme
 
 
 ; TODO : add profile
-
-; Modules
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-; projects[devel_entity][download][type] = ""
-; projects[devel_entity][download][url] = ""
-; projects[devel_entity][type] = "module"
+projects[susprof][download][type] = "git"
+projects[susprof][download][url] = "https://github.com/mojzis/susprof.git"
+projects[susprof][download][branch] = "master"
