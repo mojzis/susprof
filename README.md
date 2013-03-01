@@ -1,8 +1,12 @@
-### Very simple profile for development.
+Very simple profile for development.
+-------------------------
 Includes a make file  for quick download.  
 Contrib modules are downloaded under sites/all/modules/contrib  
 
-### usage
+
+usage
+-------------------------
+
 ```
 mkdir newsite
 cd newsite
@@ -12,6 +16,7 @@ drush si
 ```
 
 TODO
+-------------------------
 * admin theme
 * shell script
 * mothership subtheme (?)
