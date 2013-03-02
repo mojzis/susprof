@@ -1,3 +1,7 @@
+core = 7.x
+
+api = 2
+
 projects[susprof][type] = profile
 projects[susprof][download][type] = "git"
 projects[susprof][download][url] = "https://github.com/mojzis/susprof.git"
